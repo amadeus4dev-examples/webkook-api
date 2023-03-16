@@ -6,6 +6,7 @@ This repository consists of two webhook servers: one built with Node/Express, an
 
 Clone the repository and go to the node directory
  ```
+ git clone https://github.com/tsolakoua/webkook-api.git
  cd node
  ```
 
@@ -23,6 +24,7 @@ node app.js
 
 Clone the repository and go to the python directory
  ```
+ git clone https://github.com/tsolakoua/webkook-api.git
  cd python
  ```
 
